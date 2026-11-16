@@ -4,6 +4,7 @@
 
 - العربية: https://qaswara.me/
 - English: https://qaswara.me/en/
+- «الحليم»: https://qaswara.me/al-halim/
 
 الملفات تُولَّد من `scripts/build_site.py` في مستودع العمل الخاص، ثم تُنسخ هنا. لا تُحرَّر يدويًا.
 
